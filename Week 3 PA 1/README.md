@@ -46,6 +46,6 @@ open `.html` file via brower for quick look.
   - Write a function `predict(parameters, X)` `return predictions`
 
 # Reference:
-http://scs.ryerson.ca/~aharley/neural-networks/
-http://cs231n.github.io/neural-networks-case-study/
+- http://scs.ryerson.ca/~aharley/neural-networks/
+- http://cs231n.github.io/neural-networks-case-study/
 
