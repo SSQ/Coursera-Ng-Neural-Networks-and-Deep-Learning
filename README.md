@@ -19,3 +19,11 @@ Notebook for quick search can be found [here]()
   - Be able to implement vectorization across multiple training examples
   - [x] [Python Basics with Numpy (optional assignment)]()
   - [x] [Logistic Regression with a Neural Network mindset](https://github.com/SSQ/Coursera-Ng-Neural-Networks-and-Deep-Learning/tree/master/Pragramming%20Assignment%201)
+- Week 3:
+  - Understand hidden units and hidden layers
+  - Be able to apply a variety of activation functions in a neural network.
+  - Build your first forward and backward propagation with a hidden layer
+  - Apply random initialization to your neural network
+  - Become fluent with Deep Learning notations and Neural Network Representations
+  - Build and train a neural network with one hidden layer.
+  - [x] [Build a 2-class classification complete neural network with a hidden layer](https://github.com/SSQ/Coursera-Ng-Neural-Networks-and-Deep-Learning/tree/master/Week%203%20PA%201)
