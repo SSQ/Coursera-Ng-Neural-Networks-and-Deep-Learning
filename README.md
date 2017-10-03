@@ -27,3 +27,11 @@ Notebook for quick search can be found [here]()
   - Become fluent with Deep Learning notations and Neural Network Representations
   - Build and train a neural network with one hidden layer.
   - [x] [Build a 2-class classification complete neural network with a hidden layer](https://github.com/SSQ/Coursera-Ng-Neural-Networks-and-Deep-Learning/tree/master/Week%203%20PA%201)
+- Week 4:
+  - See deep neural networks as successive blocks put one after each other
+  - Build and train a deep L-layer Neural Network
+  - Analyze matrix and vector dimensions to check neural network implementations.
+  - Understand how to use a cache to pass information from forward propagation to back propagation.
+  - Understand the role of hyperparameters in deep learning
+  - [x] [Building Deep Neural Network: Step by Step](https://github.com/SSQ/Coursera-Ng-Neural-Networks-and-Deep-Learning/tree/master/Week%204%20PA%201)
+  - [x] [Deep Neural Network for Image Classification: Application](https://github.com/SSQ/Coursera-Ng-Neural-Networks-and-Deep-Learning/tree/master/Week%204%20PA%202)
